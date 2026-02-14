@@ -1,0 +1,68 @@
+.oswald-uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
+body{
+
+
+
+
+  
+}
+
+#theend{
+
+
+font-family: "Oswald";
+font-size: 30px;
+
+}
+#flame{
+
+font-family: "Oswald";
+font-size: large;
+height: 10px;
+width: 50px;
+}
+
+#bite{
+
+
+font-family: "Oswald";
+font-size: large;
+height: 10px;
+width: 50px;
+position: relative;left: 1330px;
+text-align: right;
+}
+
+
+.hover-text {
+  color: rgb(0, 0, 0);
+font-family: "Oswald";
+width: 100px;
+  transition: color 0.3s ease;
+    text-shadow: 0px 0px 20px rgb(25, 17, 106);
+}
+
+
+.hover-text:hover {
+  color: rgb(67, 60, 209);
+}
+
+
+a {
+  color: black; 
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(240, 240, 239); 
+}
+
+
